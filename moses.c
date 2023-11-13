@@ -2,7 +2,8 @@
 /**
  * moses - our function to print a character
  * @chr: our character input parameter
- * Return return 1
+ *
+ * Return: return always 1
  */
 int moses(char chr)
 {
