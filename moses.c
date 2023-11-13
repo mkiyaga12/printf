@@ -2,9 +2,13 @@
 /**
  * moses - our function to print a character
  * @chr: our character input parameter
+<<<<<<< HEAD
  * moses: parameter.
  *
- * Return return 1
+=======
+ *
+ * Return: return always 1
+>>>>>>> 1ab86db920bfae089aa1acc9ae726f6865943e11
  */
 
 int moses(char chr)
