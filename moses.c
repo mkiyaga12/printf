@@ -2,8 +2,11 @@
 /**
  * moses - our function to print a character
  * @chr: our character input parameter
+ * moses: parameter.
+ *
  * Return return 1
  */
+
 int moses(char chr)
 {
 	return (write(1, &chr, 1));
