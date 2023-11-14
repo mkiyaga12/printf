@@ -2,7 +2,7 @@
 /**
  * _printf - this is our function to print a formatted string.
  * @format: format is our function paramater
- * Return: return always number of bytes printed
+ * Return: return alwayss number of bytes printed
  */
 int _printf(const char *format, ...)
 {
