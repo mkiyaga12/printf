@@ -6,7 +6,7 @@
 
 int _printf(const char *format, ...);
 int moses(char chr);
-int main(void)
-int _strlen(char *s)
-
+int main(void);
+int _strlen(char *s);
+int put(char *chr);
 #endif
