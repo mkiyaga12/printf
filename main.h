@@ -11,5 +11,6 @@ int _strlen(char *s);
 int put(char *chr);
 int put_s(char *chr);
 unsigned int _strleng(char *str);
+int print_percent(va_list args, char);
 
 #endif
